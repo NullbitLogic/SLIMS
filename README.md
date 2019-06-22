@@ -1,2 +1,2 @@
 # SLIMS
-A modern more streamlined version LIMS (Laboratory Information Management System).
+A modern more streamlined version of LIMS (Laboratory Information Management System).
